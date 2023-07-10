@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/JanGross/kdpgen/issues"
   },
-  "homepage": "https://github.com/JanGross/kdpgen#readme"
+  "homepage": "https://github.com/JanGross/kdpgen#readme",
+  "dependencies": {
+    "@pdf-lib/fontkit": "^1.1.1",
+    "pdf-lib": "^1.17.1"
+  }
 }
